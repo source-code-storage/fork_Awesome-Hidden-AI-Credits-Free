@@ -33,9 +33,9 @@ A list of lesser-known AI platforms, proxies, and APIs that give out generous fr
 
 ## Large Language Models (LLMs)
 
-* [Aerolink](https://aerolink.lat/register?ref=7KR4BGK) An API proxy that gives you $140 in free credits for Claude models (Opus 4.8, Sonnet 4.6, Haiku). It starts with a $35 signup bonus and then[...]
-* [AgentRouter](https://agentrouter.org/register?aff=qwl4) An API aggregator where you can access Claude (Opus, Sonnet), DeepSeek V4, and GLM 5.1. It comes with a $175.00 starting bonus and instant access to models such as **Claude Opus 4.8**, **Claude Opus 5**, and **GPT 5.6 Sol**. *(Note: r[...]
-* [Bluesminds](https://api.bluesminds.com/register?aff=lBwr) Another API aggregator with models like **GPT 5.5**, **DeepSeek V4 Pro**, **Z AI GLM5**, and Qwen. You get an $8 daily allowance and a $100 starting [...]
+* [Aerolink](https://aerolink.lat/register?ref=7KR4BGK) An API proxy that gives you $140 in free credits for Claude models (Opus 4.8, Sonnet 4.6, Haiku). It starts with a $35 signup bonus
+* [AgentRouter](https://agentrouter.org/register?aff=qwl4) An API aggregator where you can access Claude (Opus, Sonnet), DeepSeek V4, and GLM 5.1. It comes with a $175.00 starting bonus and instant access to models such as **Claude Opus 4.8**, **Claude Opus 5**, and **GPT 5.6 Sol**.
+* [Bluesminds](https://api.bluesminds.com/register?aff=lBwr) Another API aggregator with models like **GPT 5.5**, **DeepSeek V4 Pro**, **Z AI GLM5**, and Qwen. $200 free credits
 * [FreeLLMAPI](https://freellmapi.co/) Access 81 different free models and 114 endpoints. They give you a huge allowance of around 1.7 billion free tokens each month.
 * [Freebuff](https://freebuff.com/) An ad-supported CLI for free access to DeepSeek V4, MiMo 2.5, Kimi K2.6, and MiniMax M3. It has unlimited usage if you're okay with terminal text ads.
 * [Groq](https://console.groq.com/keys) A super fast LPU engine for open-source models. The free tier limits you to 30 requests per minute and 14,400 requests per day.
