@@ -15,7 +15,9 @@ A list of lesser-known AI platforms, proxies, and APIs that give out generous fr
 > * **[AgentRouter](https://agentrouter.org/register?aff=qwl4):** You get a $175 starting bonus and instant access to top models like **Claude Opus 4.8**, **Claude Opus 5**, and **GPT 5.6 Sol**
 > * **[Bluesminds](https://api.bluesminds.com/register?aff=lBwr):** Gives you a daily allowance so you can keep using **GPT 5.5**, **DeepSeek V4 Pro**, and **Z AI GLM5** for free
 > * **[Aerolink](https://aerolink.lat/register?ref=7KR4BGK):** Gives you a $35 instant bonus and $140 in rolling credits. You can use all the latest Claude models here, including **Claude Opus 4.8**
-> * **[Zenmux](https://zenmux.ai/invite/DG81MD):** Provides free access to models including **Grok 4.5**, **Step 3.7 Flash**, **GLM 4.7 Flash**, and **GLM 4.6V Flash**.
+> * **[Zenmux](https://zenmux.ai/invite/DG81MD):** Provides free access to models including **deepseek/deepseek-v4-flash-vision-exp-free** and **z-ai/glm-5.3-free**.
+> * **[OpenRouter](https://openrouter.ai/):** Provides free tier access to models including **stealth/ox-alpha**.
+> * **[TokenRouter](https://www.tokenrouter.com/models/):** Offers free access to models including **qwen/qwen3.8-max-free**.
 > * **[Fish Audio](https://fish.audio/?aff=5L4U4NBNLNSEC):** Free unlimited S2.1 Pro TTS API (Valid until 31st Aug).
 
 ---
@@ -43,7 +45,9 @@ A list of lesser-known AI platforms, proxies, and APIs that give out generous fr
 * [Mistral AI](https://console.mistral.ai/) They have a free "Experiment" tier on La Plateforme. Just keep in mind the rate limits are strict and they might use your data for training.
 * [Google AI Studio](https://aistudio.google.com/) A really solid free tier for Gemini models. You get up to 15 requests and 1 million tokens per minute for free.
 * [Sarvam AI](https://sarvam.ai/) An Indian AI startup with great Indic language LLMs. New users get a ₹1000 free credit bonus.
-* [Zenmux](https://zenmux.ai/invite/DG81MD) Provides free access to models including Grok 4.5, Step 3.7 Flash, GLM 4.7 Flash, and GLM 4.6V Flash.
+* [Zenmux](https://zenmux.ai/invite/DG81MD) Provides free access to models including deepseek/deepseek-v4-flash-vision-exp-free and z-ai/glm-5.3-free.
+* [OpenRouter](https://openrouter.ai/) A unified model gateway offering free access to models including stealth/ox-alpha.
+* [TokenRouter](https://www.tokenrouter.com/models/) An API aggregator providing free access to models including qwen/qwen3.8-max-free.
 
 ## Image Generation
 
